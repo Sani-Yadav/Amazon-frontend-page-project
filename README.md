@@ -1,6 +1,5 @@
 # Amazon-frontend-page-project
 
-# Amazon Frontend Page Project
 
 This project is a clone of the Amazon website’s frontend page, built using HTML, CSS, and JavaScript. The goal is to replicate the look and feel of Amazon’s homepage and enhance frontend development skills.
 
